@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.dump/
+.env
+.DS_Store
+.idea
+.credentials
